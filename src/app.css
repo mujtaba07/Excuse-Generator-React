@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+}
+.App{
+    min-height: 100vh;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(41, 118, 163);
+    color: rgb(223, 223, 223);
+}
+.App  button{
+    padding:20px;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 25px;
+
+}
+.excuse{
+    height: 20px;
+    padding: 10px;
+    margin: 10px;
+}
